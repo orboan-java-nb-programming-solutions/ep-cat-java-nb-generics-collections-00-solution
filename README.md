@@ -1,5 +1,5 @@
-# ep-cat-java-nb-generics-collections-00
-## Type: Exercici Pràctic
+# ep-cat-java-nb-generics-collections-00-solution
+## Type: Exercici Pràctic - Solució
 ## Language: Catalan
 ## Programming language: Java
 ## Tools: notebook
